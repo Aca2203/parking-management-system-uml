@@ -1,0 +1,12 @@
+# StarUML project files to ignore
+*.bak          # backup files
+*.tmp          # temporary files
+*.log          # log files
+*.autosave     # autosave files
+*.history      # history/undo files
+.DS_Store      # macOS system files
+Thumbs.db      # Windows system files
+
+# Optional: ignore user-specific configs
+*.user         # user settings files
+*.suo          # solution options (if using with IDEs)
